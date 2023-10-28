@@ -2,6 +2,9 @@
 To determine which route is the best one to take, we need to predict how long the trip will last when taking a specific route. Therefore, the goal of this playground competition is to predict the duration of each trip in the test data set, given the start and end coordinates.
 In summary, the conclusions drawn from the provided paragraphs and charts are as follows:
 
+<img width="932" alt="image" src="https://github.com/rohitbashistgurjar/New-York-city-Trip-duration-prediction/assets/68678261/6cd697e5-b5bb-445e-ab85-95f68f538cd1">
+
+
 Objective: To develop a machine learning model that predicts the duration of taxi trips in New York City.
 
 Key Steps and Components:
